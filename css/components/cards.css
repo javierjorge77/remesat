@@ -19,7 +19,7 @@
 
 .cards {
   display: flex;
-  justify-content: space-between;
+  justify-content:space-around;
   margin-bottom: 30px;
   flex-wrap: wrap;
 }
