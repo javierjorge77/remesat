@@ -1,0 +1,29 @@
+/* Your button CSS file */
+
+.btn-primary {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 30px;
+  font-weight: lighter;
+  opacity: 0.6;
+}
+.btn-primary:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}
+.btn-treehouse {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #69c185;
+  transition: background 0.3s ease;
+}
+.btn-treehouse:hover {
+  opacity: 1;
+  background: #39bb60;
+  text-decoration: none;
+  color: white;
+}
